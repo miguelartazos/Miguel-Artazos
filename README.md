@@ -4,7 +4,7 @@ Mechanical Engineering student at University of St. Thomas transitioning to Comp
 
 ## 🎓 Current Focus
 - Completing B.S. Mechanical Engineering (Dec 2025)
-- Applying for MS Computer Science programs (Fall 2026)
+- Applying for MS Computer Science programs (Spring 2026)
 - Working in renewable energy data analysis at Elawan Energy
 - Building real-time distributed systems and mobile applications
 
